@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endereço</title>
+</head>
+<body>
+
+    <form action="http://localhost:3003/alunos" method="post">
+
+        <label for="endereço"><h1>Endereço</h1></label>
+
+        <input type="text" name="rua" placeholder="Rua" required>
+        <input type="number" name="numero" placeholder="número" required>
+        <input type="text" name="complemento" placeholder="Complemento" >
+        <br/>
+        <br/>
+        <input type="text" name="bairro" placeholder="Bairro" required>
+        <input type="text" name="cidade" placeholder="Cidade" required>
+
+        <select name="Estado" required>
+
+            <option value="blank"></option>
+            <option value="ac">Acre</option>
+            <option value="al">Alagoas</option>
+            <option value="ap">Amapá</option>
+            <option value="am">Amazonas</option>
+            <option value="ba">Bahia</option>
+            <option value="ce">Ceará</option>
+            <option value="df">Distrito Federal</option>
+            <option value="es">Espírito Santo</option>
+            <option value="go">Goiás</option>
+            <option value="ma">Maranhão</option>
+            <option value="mt">Mato Grosso</option>
+            <option value="ms">Mato Grosso do Sul</option>
+            <option value="mg">Minas Gerais</option>
+            <option value="pa">Pará</option>
+            <option value="pb">Paraíba</option>
+            <option value="pr">Paraná</option>
+            <option value="pe">Pernambuco</option>
+            <option value="pi">Piauí</option>
+            <option value="rj">Rio de Janeiro</option>
+            <option value="rn">Rio Grande do Norte</option>
+            <option value="rs">Rio Grande do Sul</option>
+            <option value="ro">Rondônia</option>
+            <option value="rr">Roraima</option>
+            <option value="sc">Santa Catarina</option>
+            <option value="sp">São Paulo</option>
+            <option value="se">Sergipe</option>
+            <option value="to">Tocantins</option>
+            
+        </select>
+        <br/>
+        <br/>
+        <br/>
+        <input type="checkbox"> O endereço de entrega é o mesmo de cobrança
+        <br/>
+        <br/>
+        <button type="submit">Incluir endereço</button>
+
+    </form>
+
+</body>
+</html>
