@@ -1,0 +1,21 @@
+img{
+    height: 300px;
+    width: 200px;
+    margin: 50px;
+    border: 12px dotted yellow;
+    padding: 5px;
+}
+
+div{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    font-size: 100px;
+}

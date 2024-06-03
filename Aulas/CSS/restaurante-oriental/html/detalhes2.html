@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khao Pad</title>
+
+    <link rel="stylesheet" href="/Provas/restaurante-oriental/css/detalhes.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <header>
+
+        <div class="tabs is-centered">
+            <ul>
+                <li class="is-active">
+                    <p class="logo">ThaiTaste Haven</p>
+                </li>
+                <li class="is-active"><input class="input is-small" type="text" placeholder="Pesquisa" /></li>
+                <li class="is-active"><a href="/Provas/restaurante-oriental/html/cardapio.html">Voltar</a></li>
+            </ul>
+        </div>
+
+    </header>
+
+    <section class="section">
+
+        <div>
+            <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/arroz-frito-tailandia.jpg" alt="Khao Pad">
+        </div>
+
+        <main>
+            <div>
+                <h1>Khao Pad</h1>
+                <p class="texto">Deixe-se levar pela deliciosa simplicidade do nosso Khao Pad. Este prato tailandês clássico apresenta uma combinação perfeita de arroz frito, ovos, legumes frescos e sua escolha de frango, camarão ou tofu, tudo cuidadosamente preparado com uma mistura de temperos autênticos. Cada garfada é uma jornada pelos sabores vibrantes e reconfortantes da Tailândia, oferecendo uma experiência gastronômica verdadeiramente memorável. </p>
+            </div>
+        </main>
+
+    </section>  
+
+    <div class="button1">
+        <button class="button is-link is-light">Faça seu pedido</button>
+        <p class="texto2">R$ 46,90</p>
+    </div>
+
+    <div>
+        <form action="http://localhost:3003/alunos" method="get">
+
+            <label class="texto2">Receba as nossas promoções:</label>
+
+            <div class="email">
+                <input class="input is-danger" type="email" placeholder="Email" />
+            </div>
+
+            <label class="checkbox">
+                <input type="checkbox" />
+                Eu aceito os <a href="#"> termos de uso</a>
+            </label>
+            
+            <button class="button is-link is-light" onclick="alerta()">Enviar</button>
+            
+        </form>
+    </div>
+
+</body>
+
+<script>
+
+    function alerta() {
+        alert('E-mail cadastrado com sucesso!')
+    }
+
+</script>
+
+</html>

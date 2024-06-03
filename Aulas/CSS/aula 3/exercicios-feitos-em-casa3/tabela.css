@@ -1,0 +1,39 @@
+
+caption{
+    background-color: rgb(14,81,136);
+    color: rgb(208,241,247);
+    font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 750px;
+}
+    
+table{
+    background-color: rgb(199,231,242);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.numeros{
+    background-color: rgb(192,192,192);
+    text-align: center;
+}
+
+th{
+    background-color: rgb(104,196,226);
+    font-weight: 500;
+}
+
+.cidades{
+    color: rgb(39, 85, 120);
+    font-weight: 450;
+}
+
+.cd{
+    text-align: left;
+}
+
+.numero2{
+    text-align: center;
+}

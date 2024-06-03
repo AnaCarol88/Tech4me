@@ -1,0 +1,47 @@
+
+.amarelo{
+    height: 100px;
+    width: 700px;
+    background-color: yellow;
+    animation-name: aumentar;
+    animation-duration: 10s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1s;
+    animation-play-state: running;
+    animation-iteration-count: 2;
+}
+
+.vermelho{
+    height: 100px;
+    width: 700px;
+    background-color: red;
+    animation-name: aumentar;
+    animation-duration: 14s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 3s;
+    animation-play-state: running;
+    animation-iteration-count: 2;
+}
+
+.azul{
+    height: 100px;
+    width: 700px;
+    background-color: blue;
+    animation-name: aumentar;
+    animation-duration: 11s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 2s;
+    animation-play-state: running;
+    animation-iteration-count: 2;
+}
+
+@keyframes aumentar {
+
+    from {
+        height: 0px;
+    }
+
+    to {
+        height: 10px;
+    }
+}
