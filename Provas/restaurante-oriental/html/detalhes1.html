@@ -1,11 +1,82 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Pad Thai</title>
+
+    <link rel="stylesheet" href="/Provas/restaurante-oriental/css/detalhes.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap" rel="stylesheet">
+
 </head>
+
 <body>
-    
+    <header>
+
+        <div class="tabs is-centered">
+            <ul>
+                <li class="is-active">
+                    <p class="logo">ThaiTaste Haven</p>
+                </li>
+                <li class="is-active"><input class="input is-small" type="text" placeholder="Pesquisa" /></li>
+                <li class="is-active"><a href="/Provas/restaurante-oriental/html/cardapio.html">Voltar</a></li>
+            </ul>
+        </div>
+
+    </header>
+
+    <section class="section">
+
+        <div>
+            <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/pad-thai-tailandia.jpg" alt="Pad Thai">
+        </div>
+
+        <main>
+            <div>
+                <h1>Pad Thai</h1>
+                <p class="texto">Delicie-se com o autêntico sabor tailandês do nosso Pad Thai. Este prato clássico apresenta macarrão de arroz frito, combinado com uma mistura única de camarão ou frango suculento, tofu macio, brotos de feijão, ovos e amendoim crocante. Regado com nosso molho especial, que oferece um equilíbrio perfeito entre doce, picante e azedo, o Pad Thai é uma explosão de sabores em cada garfada. Servido com fatias frescas de limão para um toque cítrico refrescante.</p>
+            </div>
+        </main>
+
+    </section>  
+
+    <div class="button1">
+        <button class="button is-link is-light">Faça seu pedido</button>
+        <p class="texto2">R$ 49,90</p>
+    </div>
+
+    <div>
+        <form action="http://localhost:3003/alunos" method="get">
+
+            <label class="texto2">Receba as nossas promoções:</label>
+
+            <div class="email">
+                <input class="input is-danger" type="email" placeholder="Email" />
+            </div>
+
+            <label class="checkbox">
+                <input type="checkbox" />
+                Eu aceito os <a href="#"> termos de uso</a>
+            </label>
+            
+            <button class="button is-link is-light" onclick="alerta()">Enviar</button>
+            
+        </form>
+    </div>
+
 </body>
+
+<script>
+
+    function alerta() {
+        alert('E-mail cadastrado com sucesso!')
+    }
+
+</script>
+
 </html>

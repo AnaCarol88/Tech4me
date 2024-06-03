@@ -10,16 +10,17 @@ body {
 header {
     background-color: rgb(36, 29, 82);
     text-align: center;
+    box-shadow: 1px 1px 10px 3px rgb(115, 140, 217);
 }
 
 .logo {
-    font-size: 180%;
+    font-size: 300%;
     text-transform: uppercase;
-    text-shadow: 2px 2px 8px white;
+    text-shadow: 2px 2px 8px rgb(115, 140, 217);
     font-family: "Charm", 'Times New Roman';
     font-weight: 400;
     font-style: normal;
-    color: rgb(244, 245, 248);    
+    color: rgb(244, 245, 248);  
     
     ::first-letter {
         color: rgb(204, 36, 49);
@@ -35,7 +36,8 @@ header {
     background-color: rgb(36, 29, 82);
     text-align: center;
     padding: 5%;
-    margin-top: 2rem;
+    margin-top: 1rem;
+    box-shadow: 3px 3px 5px 3px rgb(38, 29, 82);
 }
 
 .link {
@@ -49,10 +51,12 @@ header {
     font-style: normal;
     font-size: 200%;
     text-align: center;
+    box-shadow: 1px 1px 3px 2px rgb(36, 29, 82);
+    text-shadow: 3px 3px 6px rgb(204, 36, 49);
 }
 
 .rodape {
     display: flex;
     justify-content: center;
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
