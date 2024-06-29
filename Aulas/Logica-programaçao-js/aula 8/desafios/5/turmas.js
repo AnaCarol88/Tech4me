@@ -17,7 +17,7 @@ function turmas() {
 
     var total = (reprovados_c + reprovados_d) * 100 / 80;
     
-    alert("Quantidade de alunos reprovados na turma C: " + reprovados_c + "\nQuantidade de alunos reprovados na turma D: " + reprovados_d + "\nPercentual do total de alunos reprovados: " + total + "%");
+    alert("Percentual de reprovados na Turma C: " + percentual_c + "%" + "\nPercentual de reprovados na Turma D: " + percentual_d + "%" + "\nQuantidade de alunos reprovados na turma C: " + reprovados_c + "\nQuantidade de alunos reprovados na turma D: " + reprovados_d + "\nPercentual do total de alunos reprovados: " + total + "%");
 
 }
 
@@ -35,7 +35,7 @@ function turmas1() {
 
     var total = ((reprovados_c + reprovados_d) * 100 / 80).toFixed(2);
     
-    alert("Quantidade de alunos reprovados na turma C: " + reprovados_c + "\nQuantidade de alunos reprovados na turma D: " + reprovados_d + "\nPercentual do total de alunos reprovados: " + total + "%");
+    alert("Percentual de reprovados na Turma C: " + percentual_c + "%" + "\nPercentual de reprovados na Turma D: " + percentual_d + "%" + "\nQuantidade de alunos reprovados na turma C: " + reprovados_c + "\nQuantidade de alunos reprovados na turma D: " + reprovados_d + "\nPercentual do total de alunos reprovados: " + total + "%");
 
 }
 
