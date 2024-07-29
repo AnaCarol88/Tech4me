@@ -41,7 +41,7 @@ function acompanhamento() {
 
             } else {
 
-                alert("Não possuimos esse sanduíche, tente novamente.");
+                alert("Não possuimos esse acompanhamento, tente novamente.");
                 i--;
 
             }
