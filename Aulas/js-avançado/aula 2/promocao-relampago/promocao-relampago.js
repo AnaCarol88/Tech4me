@@ -1,9 +1,15 @@
+var min = new Date;
+var minutos = parseInt(min.getMinutes());
 
-const minuto = parseInt(prompt("Qual é número que aparece nos minutos?"));
+//const minuto = parseInt(prompt("Qual é número que aparece nos minutos?"));
 const valor = parseFloat(prompt("Qual o valor do produto?"));
 
 
-var par = function (valor) {
+
+
+
+
+function par(valor) {
     return (valor - valor * 0.3).toFixed(2);
 }
 
@@ -19,7 +25,7 @@ const valor_impar = impar(valor);
 
 function desconto(par, impar) {
     
-    if (minuto % 2 === 0) {
+    if (minutos % 2 === 0) {
         
         alert(`O preço com o desconto é R$ ${par}.`);
 
@@ -28,6 +34,16 @@ function desconto(par, impar) {
         alert(`O preço com o desconto é R$ ${impar}.`);
 
     }
+
+    /*if (minuto % 2 === 0) {
+        
+        alert(`O preço com o desconto é R$ ${par}.`);
+
+    } else {
+        
+        alert(`O preço com o desconto é R$ ${impar}.`);
+
+    }*/
 
 }
 
