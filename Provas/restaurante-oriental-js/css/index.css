@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2554852-seamless-pattern-with-food-on-dark-blue-background-gratis-vetor.jpg);
+    background-color: rgb(36, 29, 82);
+    background-repeat: repeat;
+
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: rgb(36, 29, 82);
+    text-align: center;
+    box-shadow: 1px 1px 10px 3px rgb(115, 140, 217);
+}
+
+.logo {
+    font-size: 300%;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px rgb(115, 140, 217);
+    font-family: "Charm", 'Times New Roman';
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(244, 245, 248);
+
+    ::first-letter {
+        color: rgb(204, 36, 49);
+    }
+}
+
+.texto {
+    font-size: 150%;
+    font-family: "Charm", 'Times New Roman';
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(244, 245, 248);
+    background-color: rgb(36, 29, 82);
+    text-align: center;
+    padding: 2.5%;
+    margin-top: 1rem;
+    box-shadow: 3px 3px 5px 3px rgb(38, 29, 82);
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1.5rem;
+}

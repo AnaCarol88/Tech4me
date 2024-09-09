@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(165, 25, 49);
+}
+
+header {
+    background-color: rgb(36, 29, 82);
+}
+
+.is-active {
+    margin: 0.2% 2% 0.2% 2% !important;
+}
+
+.logo {
+    font-size: 180%;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px rgb(115, 140, 217);
+    font-family: "Charm", 'Times New Roman';
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(244, 245, 248);
+    padding: 5px;
+}
+
+.logo::first-letter {
+    color: rgb(204, 36, 49) !important;
+}
+
+.card {
+    height: 25% !important;
+    width: 30% !important;
+    margin-top: 3%;
+    transition: transform 0.5s ease !important;
+    padding-bottom: 4.5%;
+}
+
+.card:hover {
+    transform: scale(1.04);
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.content {
+    text-align: center;
+}
+
+.texto {
+    font-size: 250%;
+    font-family: "Charm", 'Times New Roman';
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(244, 245, 248);
+    background-color: rgb(36, 29, 82);
+    text-align: center;
+    padding: 1%;
+    margin-top: 1.5rem;
+    box-shadow: 1px 1px 2px 1px rgb(38, 29, 82);
+}

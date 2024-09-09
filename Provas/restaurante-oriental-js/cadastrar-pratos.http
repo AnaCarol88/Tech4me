@@ -1,0 +1,63 @@
+POST https://tech4japa.fly.dev/produtos
+Content-Type: application/json
+
+
+
+[
+
+    {
+        "id": "1pt",
+        "nome": "Pad Thai",
+        "restaurante": "ThaiTaste Haven",
+        "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/pad-thai-tailandia.jpg",
+        "produto": "R$ 59,90",
+        "descricao": "Delicie-se com o autêntico sabor tailandês do nosso Pad Thai. Este prato clássico apresenta macarrão de arroz frito, combinado com uma mistura única de camarão ou frango suculento, tofu macio, brotos de feijão, ovos e amendoim crocante. Regado com nosso molho especial, que oferece um equilíbrio perfeito entre doce, picante e azedo, o Pad Thai é uma explosão de sabores em cada garfada. Servido com fatias frescas de limão para um toque cítrico refrescante."
+    },
+
+    {
+        "id": "2kp",
+        "nome": "Khao Pad",
+        "restaurante": "ThaiTaste Haven",
+        "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/arroz-frito-tailandia.jpg",
+        "produto": "R$ 56,90",
+        "descricao": "Deixe-se levar pela deliciosa simplicidade do nosso Khao Pad. Este prato tailandês clássico apresenta uma combinação perfeita de arroz frito, ovos, legumes frescos e sua escolha de frango, camarão ou tofu, tudo cuidadosamente preparado com uma mistura de temperos autênticos. Cada garfada é uma jornada pelos sabores vibrantes e reconfortantes da Tailândia, oferecendo uma experiência gastronômica verdadeiramente memorável."
+    },
+
+    {
+        "id": "3tkg",
+        "nome": "Tom Kha Gai",
+        "restaurante": "ThaiTaste Haven",
+        "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/tom-kha-gai-tailandia.jpg",
+        "produto": "R$ 54,90",
+        "descricao": "Descubra a suavidade e os sabores vibrantes do Tom Kha Gai. Nossa versão desta deliciosa sopa apresenta um caldo de leite de coco, enriquecido com a essência aromática do capim-limão e o frescor das folhas de kaffir. Cada colherada revela pedaços suculentos de frango e cogumelos tenros, mergulhados em um caldo delicadamente equilibrado entre o doce e o picante. Finalizada com um toque de suco de limão e pimenta, esta sopa é perfeita para aquecer e encantar seu paladar."
+    },
+
+    {
+        "id": "4st",
+        "nome": "Som Tam",
+        "restaurante": "ThaiTaste Haven",
+        "imagem":"https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/somtam-tailandia.jpg",
+        "produto": "R$ 55,90",
+        "descricao": "Experimente a explosão de sabores refrescantes e vibrantes do Som Tam. Esta salada picante é feita com tiras crocantes de papaia verde, misturadas com um molho único à base de limão, molho de peixe e pimenta, criando uma combinação irresistível de doce, azedo e picante. Acompanhada por amendoins torrados e ervas frescas, como coentro e hortelã, e enriquecida com tomates, cenouras e vagens, cada garfada é uma experiência que oferece uma viagem culinária ao coração da Tailândia."
+    },
+
+    {
+        "id": "5ks",
+        "nome": "Khao Soi",
+        "restaurante": "ThaiTaste Haven",
+        "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/khaosoi-tailandia.jpg",
+        "produto": "R$ 56,90",
+        "descricao": "Explore os aromas e sabores únicos do norte da Tailândia com o nosso Khao Soi. Esta sopa de macarrão cativante apresenta uma mistura deliciosa de sabores e texturas, com um caldo cremoso e aromático infundido com curry tailandês, leite de coco e uma variedade de especiarias exóticas. Servido sobre macarrão de ovo e coberto com uma variedade de acompanhamentos, incluindo cebolinha, cebola crocante, limão e coentro fresco, cada colherada deste prato é uma experiência inesquecível para o paladar."
+    },
+
+    {
+        "id": "6sft",
+        "nome": "Sorvete “frito” tailandês",
+        "restaurante": "ThaiTaste Haven",
+        "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2018/11/sorvete-tailandes.jpg",
+        "produto": "R$ 15,90",
+        "descricao": "Feito na hora, com ingredientes frescos e de alta qualidade, este sorvete oferece uma experiência refrescante, suave e irresistível, tanto pelo sabor quanto pelo preparo! Ele possui a doçura e a originalidade do Sorvete Tailandês, que é preparado artesanalmente sobre uma placa bem fria, com temperatura entre -18º C e -30º C."
+    }
+
+]
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratos</title>
+
+    <link rel="stylesheet" href="/Provas/restaurante-oriental-js/css/detalhes.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <header>
+
+        <div class="tabs is-centered">
+            <ul>
+                <li class="is-active">
+                    <p class="logo">ThaiTaste Haven</p>
+                </li>
+                <li class="is-active"><input class="input is-small" type="text" placeholder="Pesquisa" /></li>
+                <li class="is-active"><button id="botao" onclick="voltar('/Provas/restaurante-oriental-js/html/cardapio.html')">Voltar</button></li>
+            </ul>
+        </div>
+
+    </header>
+
+    <section class="section">
+
+        <div>
+            <img id="imagem" src="" alt="Imagem do prato" />
+        </div>
+
+        <main>
+            <div>
+                <h1 id="nome"></h1>
+                <p class="texto" id="descricao"></p>
+            </div>
+        </main>
+
+    </section>
+
+    <div class="button1">
+        <button class="button is-link is-light">Faça seu pedido</button>
+        <p class="texto2" id="preco"></p>
+    </div>
+
+    <div>
+        <form id="formulario">
+
+            <label class="texto2">Receba as nossas promoções:</label>
+
+            <div class="email">
+                <input id="email" class="input is-danger" type="email" placeholder="Email" />
+            </div>
+
+            <label class="checkbox" id="checkbox-container">
+                <input id="checkbox1" type="checkbox" />
+                Eu aceito os <a href="#"> termos de uso</a>
+            </label>
+
+            <button class="button is-link is-light" type="submit">Enviar</button>
+
+        </form>
+    </div>
+
+</body>
+
+<script type="module" src="/Provas/restaurante-oriental-js/js/detalhes.js"></script>
+
+</html>
