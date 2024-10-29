@@ -1,0 +1,88 @@
+.sobre {
+    background-color: #CE9B3B !important;
+}
+
+h2 {
+    font-size: 60px !important;
+    padding-top: 20px;
+    font-weight: 800;
+    margin-bottom: 15px;
+    font-family: "Smythe", system-ui;
+}
+
+#img2 {
+    margin-left: 20px;
+    border-radius: 30%;
+    margin-bottom: 10px;
+    border: 5px, solid, #546D5A;
+    height: 550px;
+}
+
+.texto1 {
+    color: #546D5A;
+    font-family: "Smythe", system-ui;
+    font-weight: 599;
+    font-style: normal;
+    font-size: 25px;
+    text-align: center;
+}
+
+#t {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.conteudo {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+.navbar {
+    background-color: #E5C276 !important;
+    font-family: "Contrail One", sans-serif;
+    font-weight: 600 !important;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.navbar-item {
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    color: #335e86 !important;
+}
+
+#mais {
+    color: #335e86 !important;
+}
+
+#sobre {
+    background-color: #F3F0E7 !important;
+    font-size: 20px;
+    padding-top: 12px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+#cads {
+    background-color: #F3F0E7 !important;
+    font-size: 20px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.navbar-dropdown {
+    background-color: #F3F0E7 !important;
+}
+
+#titulo {
+    font-size: 45px;
+    margin-right: 100px !important;
+    margin-left: 120px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+}

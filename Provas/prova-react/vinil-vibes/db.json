@@ -1,0 +1,316 @@
+{
+    "discos": [
+       
+        {
+            "id": "1me",
+            "nome": "Melodrama [Disco de Vinil]",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 349,90",
+            "detalhes": [
+                "Lorde",
+                "33 x 33 x 2 cm; 490 g",
+                "B0FKLNF8GT",
+                "Novo",
+                "POP",
+                "Universal Music",
+                "16-06-2017"
+            ],
+            "descricao": "Melodrama é o segundo álbum de estúdio gravado pela cantora e compositora neozelandesa Lorde. O seu lançamento ocorreu em 16 de junho de 2017. Lorde começou a escrever as canções de seu subsequente disco em dezembro de 2013, apenas três meses após a edição de seu aclamado disco de estreia, Pure Heroine. Porém, a exaustiva excursão que empreendera para promovê-lo impossibilitou-a de retornar aos estúdios de gravações àquele momento. A intérprete apenas regressou aos estúdios em março de 2015, para iniciar as sessões de composição com Joel Little, o responsável pela produção musical de seu álbum de estreia.",
+            "tracklist": [
+                "Green Light",
+                "Sober",
+                "Homemade Dynamite",
+                "The Louvre",
+                "Liability",
+                "Hard Feelings",
+                "Loveless",
+                "Sober II (Melodrama)",
+                "Writer In The Dark",
+                "Supercut",
+                "Liability (Reprise)",
+                "Perfect Places"
+            ],
+            "imagens": [
+                "https://m.media-amazon.com/images/I/A18QUHExFgL._AC_SX679_.jpg",
+                "https://acdn.mitiendanube.com/stores/001/610/409/products/79004245-bbab-4625-bd55-470c451d1f5c-6603c2162645f006e416292953903472-640-0.webp",
+                "https://acdn.mitiendanube.com/stores/001/610/409/products/0af0d018-df2f-41cf-b19d-88a56d417817-0c03d5dfed259be7d116292953907266-640-0.webp",
+                "https://m.media-amazon.com/images/I/71uzTAWzXaL._AC_SX679_.jpg"
+            ]
+        },  {
+            "id": "2mi",
+            "nome": "Midnights [Jade Green Edition LP]]",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 429,90",
+            "detalhes": [
+                "Taylor Swift",
+                "32 x 32 x 3 cm; 560 g",
+                "B0UKPYH6RM",
+                "Novo",
+                "POP",
+                "Universal Music",
+                "21-10-2022"
+            ],
+            "descricao": "Midnights é o décimo álbum de estúdio da Taylor Swift, lançado em 21 de outubro de 2022. Disco cria atmosfera nebulosa, típica das madrugadas de insônia, para refletir com precisão (e distorção) sobre amor, vingança e sobre si. Mas em Midnights sua insônia é dançante, mais próxima dos já distantes 1989 e Lover do que verdadeiramente introspectiva e sóbria, como no duo recente Folklore e Evermore.",
+            "tracklist": [
+                "Lavender Haze",
+                "Maroon",
+                "Anti-Hero",
+                "Snow On The Beach (feat. Lana Del Rey)",
+                "You're On Your Own, Kid",
+                "Midnight Rain",
+                "Question…?",
+                "Vigilante Shit",
+                "Bejeweled",
+                "Labyrinth",
+                "Karma",
+                "Sweet Nothing",
+                "Mastermind"
+            ],
+            "imagens": [
+                "https://m.media-amazon.com/images/I/81+-70FHwdL._UF894,1000_QL80_.jpg",
+                "https://store.taylorswift.com/cdn/shop/products/vinyl-2.png?v=1665149511&width=1920",
+                "https://store.taylorswift.com/cdn/shop/products/vinyl-2_backwdisc.png?v=1665149511&width=1920",
+                "https://store.taylorswift.com/cdn/shop/products/vinyl-Disc2.png?v=1665149137&width=1920",
+                "https://m.media-amazon.com/images/I/71o4HmsH3mL._AC_SX679_.jpg"
+            ]
+        },
+        {
+            "id": "3ma",
+            "nome": "+-=÷× (TOUR COLLECTION) - Vinil 2 LP",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 498,00",
+            "detalhes": [
+                "Ed Sheeran",
+                "0,7 x 31,3 x 31,5 cm; 453,59 g",
+                "B0DG5QLTKP",
+                "Novo",
+                "POP ROCK",
+                "Atlantic Records",
+                "27-09-2024"
+            ],
+            "descricao": "'+-=÷× TOUR COLLECTION' reúne algumas das maiores músicas que Ed Sheeran tem tocado em sua turnê de sua era de álbuns matemáticos de uma década. 22 faixas de estúdio ao todo, incluindo favoritas, como Perfect, Shape of You, Photograph, Shivers, Thinking out Loud e mais. Esta edição de colecionador é impressa em vinil azul brilhante 2LP. O disco “+-=÷× (TOUR COLLECTION)” reúne as maiores músicas de Ed Sheeran até hoje, da era de álbuns matemáticos, que se estende por uma década. “A música ‘The A Team’ foi a minha primeira a alcançar sucesso. Eu a lancei em abril de 2010 com um vídeo. Na época, eu não tinha contrato e ainda estava tocando em noites de microfone aberto, mas a música ganhou força e, eventualmente, se tornou meu primeiro lançamento por uma grande gravadora um ano depois. Agora, 14 anos depois, estou encerrando a era ‘Mathematics’ com o lançamento da coleção da turnê. Saiu hoje. A turnê termina no próximo ano, e depois vem a próxima fase. Aproveitem“, afirmou o cantor em suas redes sociais.",
+            "tracklist": [
+                "The A Team",
+                "Lego House",
+                "Give Me Love",
+                "Sing",
+                "Don't",
+                "Thinking Out Loud",
+                "Bloodstream",
+                "Photograph",
+                "Tenerife Sea",
+                "I See Fire",
+                "Castle On The Hill",
+                "Shape Of You",
+                "Galway Girl",
+                "Perfect",
+                "Happier",
+                "Dive",
+                "I Don't Care with Justin Bieber",
+                "Beautiful People feat. Khalid",
+                "Afterglow*",
+                "Bad Habits",
+                "Shivers",
+                "Eyes Closed"
+            ],
+            "imagens": [
+                "https://m.media-amazon.com/images/I/51HSqpMTrGL._AC_SX679_.jpg",
+                "https://store.edsheeran.com/dw/image/v2/BHCC_PRD/on/demandware.static/-/Sites-warner-master/default/dw0a9e3356/ed%20sheeran/UK/Mathematics%20Tour%20Collection/Music/No%20Print/Mathematics-Music-LP-2.png?sw=550&sh=550&sm=fit",
+                "https://store.edsheeran.com/dw/image/v2/BHCC_PRD/on/demandware.static/-/Sites-warner-master/default/dw77873fbd/ed%20sheeran/UK/Mathematics%20Tour%20Collection/Music/No%20Print/Mathematics-Music-LP-3.png?sw=550&sh=550&sm=fit",
+                "https://store.edsheeran.com/dw/image/v2/BHCC_PRD/on/demandware.static/-/Sites-warner-master/default/dw7c982814/ed%20sheeran/UK/Mathematics%20Tour%20Collection/Music/No%20Print/Mathematics-Music-LP-4.png?sw=550&sh=550&sm=fit",
+                "https://store.edsheeran.com/dw/image/v2/BHCC_PRD/on/demandware.static/-/Sites-warner-master/default/dw94472819/ed%20sheeran/UK/Mathematics%20Tour%20Collection/Music/No%20Print/Mathematics-Music-LP-1.png?sw=550&sh=550&sm=fit"
+            ]
+        },
+        {
+            "id": "4s",
+            "nome": "SUPERACHE [Ruby Red LP]",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 440,90",
+            "detalhes": [
+                "Conan Gray",
+                "31,3 x 31,2 x 0,6 cm; 294,84 g",
+                "B09ZLKRKL7",
+                "Novo",
+                "POP",
+                "Republic Records",
+                "24-06-2022"
+            ],
+            "descricao": "O cantor e compositor Conan Gray lançou em 24 de junho de 2022 o segundo álbum de sua carreira. Intitulado “Superache”, o disco contém 12 faixas, incluindo os já lançados singles “Memories”, “Yours” e “Disaster”, sendo esta última a faixa foco do novo projeto. Desde 2019, Conan Gray emergiu como um dos maiores e mais aclamados astros pop e compositores de sua geração. Conhecido pelas letras autênticas e sua originalidade em todas as facetas da carreira, seus sucessos multiplatinados 'Heather' (que ganhou seu próprio verbete no Urban Dictionary) e 'Maniac' chegaram ao topo das paradas de streaming e moldaram a cultura da Geração Z em todo o mundo. Em 2022, seu segundo álbum, “Superache”, também entrou no Top 10 da Billboard 200 dos EUA e ficou entre os 10 melhores nas paradas de Austrália, Reino Unido, Irlanda e Holanda, entre outros países. Somando mais de 12 bilhões de streams, Gray atraiu aplausos unânimes entre formadores de opinião, incluindo críticas de The New York Times, Rolling Stone, Vogue, GQ, V Man, Paper, Fader, Billboard e a NPR. Contém: Vinil colorido vermelho rubi, pôster (42cm x 28cm), 3 polaroids, 4 folhas de letras",
+            "tracklist": [
+                "Movies",
+                "People Watching",
+                "Disaster",
+                "Best Friend",
+                "Astronomy",
+                "Yours",
+                "Jigsaw",
+                "Family Line",
+                "Summer Child",
+                "Footnote",
+                "Memories",
+                "The Exit"
+            ],
+            "imagens": [
+                "https://m.media-amazon.com/images/I/91Z3q2ceS-L._UF894,1000_QL80_.jpg",
+                "https://http2.mlstatic.com/D_Q_NP_844286-MLU71264383329_082023-O.webp",
+                "https://http2.mlstatic.com/D_Q_NP_784406-MLU71266571371_082023-O.webp",
+                "https://conangray.universal-music.de/cdn/shop/files/Conan-Gray-Superache-Vinyl-Bundle-Vinyl-Bundle-zu-bundeln-141897-308422.96c0f02a.png?v=1725546135&width=2000",
+                "https://conangray.universal-music.de/cdn/shop/files/Conan-Gray-Superache-Vinyl-Bundle-Vinyl-Bundle-zu-bundeln-141897-308421.3b52fb1a.png?v=1725546135&width=800"
+            ]
+        },
+        {
+            "id": "5fl",
+            "nome": "Fine Line (Limited Edition) (Black & White Splatter)",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 465,90",
+            "detalhes": [
+                "Harry Styles",
+                "30,7 x 31,2 x 1 cm 694 g",
+                "B08142MKNN",
+                "Novo",
+                "POP ROCK",
+                "Columbia Europe",
+                "13-12-2019"
+            ],
+            "descricao": "'Fine Line' marca o retorno de Harry Styles com o seu segundo álbum solo, após enorme sucesso de 'Harry Styles' lançado em 2017. Composto por 12 faixas inéditas, o novo projeto inclui as já lançadas ‘Lights Up’, que atingiu o 3º lugar do chart Global no Spotify com mais de 200 milhões de streams/views, e ‘Watermelon Sugar’, apresentada ao vivo pela primeira vez em um dos maiores programas de TV nos Estados Unidos, ‘Saturday Night Live’.",
+            "tracklist": [
+                "Golden",
+                "Watermelon Sugar",
+                "Adore You",
+                "Lights Up",
+                "Cherry",
+                "Falling",
+                "To Be So Lonely",
+                "She",
+                "Sunflower, Vol. 6",
+                "Canyon Moon",
+                "Treat People With Kindness",
+                "Fine Line"
+            ],
+            "imagens": [
+                "https://cdn.awsli.com.br/2500x2500/2197/2197610/produto/133702198/cd1b4cff60.jpg",
+                "https://i.etsystatic.com/15920242/r/il/761251/2927247012/il_1588xN.2927247012_jeoa.jpg",
+                "https://i.etsystatic.com/15920242/r/il/ce63f4/2927244714/il_1588xN.2927244714_dxb3.jpg",
+                "https://www.vinylsoundsgood.co.uk/wp-content/uploads/2021/08/s-l1600.jpg",
+                "https://quals.ua/image/catalog/Covers/harry-stiles-fine-line-splatter-limited-vinyl.jpg"
+            ]
+        },
+        {
+            "id": "6w",
+            "nome": "WALLS [VINIL VERMELHO] Edição Limitada",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 449,90",
+            "detalhes": [
+                "Louis Tomlinson",
+                "31,27 x 31,32 x 0,81 cm; 544,31 g",
+                "B07Z74SSBP",
+                "Novo",
+                "POP ROCk",
+                "Sony Music",
+                "31-01-2020"
+            ],
+            "descricao": "Walls é o primeiro álbum de estúdio do cantor britânico Louis Tomlinson, lançado em 31 de janeiro de 2020. O álbum foi precedido por quatro singles, os singles 'Two of Us', 'Kill My Mind', 'We Made It', 'Don't Let It Break Your Heart' e 'Walls'.",
+            "tracklist": [
+                "Kill My Mind",
+                "Don’t Let It Break Your Heart",
+                "Two Of Us",
+                "We Made It",
+                "Too Young",
+                "Walls",
+                "Habit",
+                "Always You",
+                "Fearless",
+                "Perfect Now",
+                "Defenceless",
+                "Only The Brave"
+            ],
+            "imagens": [
+                "https://m.media-amazon.com/images/I/81Cknagq5UL._AC_SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71PUwVFdF4L._AC_UF1000,1000_QL80_.jpg",
+                "https://http2.mlstatic.com/D_NQ_NP_604974-MLU77446584657_072024-O.webp",
+                "https://i.pinimg.com/originals/17/63/5f/17635fab9d67c12f413aba75fa9237e3.jpg"
+            ]
+        },
+        {
+            "id": "7ts",
+            "nome": "The Show: The Encore (2LP/Gatefold/Edição Limitada)",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 479,90",
+            "detalhes": [
+                "Niall Horan",
+                "0.41 x 31.37 x 31.24 cm; 526.17 g",
+                "B0CLQ9Z2J1",
+                "Novo",
+                "POP",
+                "Capitol (Universal Music)",
+                "03-11-2023"
+            ],
+            "descricao": "Depois de estrear no topo das paradas em vários países com seu terceiro álbum de estúdio, The Show, Niall Horan retorna com The Show: The Encore – uma edição deluxe com nove faixas bônus. Niall colabora com Lizzy McAlpine em uma nova versão de 'You Could Start A Cult' e se junta a John Legend para reimaginar a faixa-título do álbum. A coleção também inclui novas gravações ao vivo do festival Electric Picnic e Spotify Studios, além de versões alternativas de 'Meltdown' e 'On A Night Like Tonight' da sessão Vevo Extended Play de Niall. Contém: Nova arte da capa e gatefold e discos translúcidos de rubi e bronzeado",
+            "tracklist": [
+                "Heaven",
+                "If You Leave Me",
+                "Meltdown",
+                "Never Grow Up",
+                "The Show",
+                "You Could Start A Cult",
+                "Save My Life",
+                "On A Night Like Tonight",
+                "Science",
+                "Must Be Love",
+                "You Could Start A Cult (with Lizzy McAlpine)",
+                "The Show (with John Legend)",
+                "Heaven (Live from Electric Picnic)",
+                "If You Leave Me / Everybody Wants To Rule The World (Live from Electric Picnic)",
+                "Meltdown (Vevo Extended Play)",
+                "Save My Life (Live from Electric Picnic)",
+                "On A Night Like Tonight (Vevo Extended Play)",
+                "Science (Live from Spotify Studios)",
+                "Something In The Orange (Live from Spotify Studios)"
+            ],
+            "imagens": [
+                "https://entretetizei.com.br/wp-content/uploads/2024/03/anuncio-the-show-capa-scaled.jpeg",
+                "https://pbs.twimg.com/media/F9N92HDXsAUWAq0?format=jpg&name=large",
+                "https://shop.niallhoran.com/cdn/shop/files/Vinyl1.png?v=1698163544&width=800",
+                "https://shop.niallhoran.com/cdn/shop/files/vinyl2.png?v=1698163546&width=800",
+                "https://shop.niallhoran.com/cdn/shop/files/vinyl3.png?v=1698163546&width=800"
+            ]
+        }, 
+        {
+            "id": "8sn",
+            "nome": "Snow Angel [Webstore Exclusive Vinyl + Card Autografado]",
+            "loja": "Vinil & Vibes",
+            "preco": "R$ 399,90",
+            "detalhes": [
+                "Reneé Rapp",
+                "32,3 x 32,2 x 1,9 cm; 490 g",
+                "B0CKLPF8QM",
+                "Novo",
+                "POP",
+                "Interscope Records",
+                "17-08-2023"
+            ],
+            "descricao": "''Snow Angel'' vem a ser o primeiro álbum de estúdio da cantora e compositora estadunidense Reneé Rapp, com lançamento previsto para 17 de agosto de 2023. Reneé carrega consigo espetáculos e musicais na Broadway, interpretou Regina George em Mean Girls, e ganhou reconhecimento em 2020 com sua personagem Leighton em 'Sex Lives Of Colleges'.",
+            "tracklist": [
+                "Talk Too Much",
+                "I Hate Boston",
+                "Poison Poison",
+                "Gemini Moon",
+                "Snow Angel",
+                "So What Now",
+                "The Wedding Song",
+                "Pretty Girls",
+                "Tummy Hurts",
+                "I Wish",
+                "Willow",
+                "23"
+            ],
+            "imagens": [
+                "https://cdns-images.dzcdn.net/images/cover/e2728454168a221597bd74042eb4bea9/0x1900-000000-80-0-0.jpg",
+                "https://globalgroove.co.uk/product/n272908_back.jpg.ashx",
+                "https://acdn.mitiendanube.com/stores/001/610/409/products/magiceraser_230817_1350571-abfcab9cefcf200a9416922911007384-640-0.webp",
+                "https://cdn.awsli.com.br/2500x2500/1804/1804375/produto/229025978/design-sem-nome--57--rb39kw2u11.png",
+                "https://images.tcdn.com.br/img/img_prod/883587/renee_rapp_snow_angel_webstore_exclusive_vinyl_card_autografado_4779_2_8cf0babf4d03df6e975bc8b2daca1809.jpeg"
+            ]
+        }
+    ]
+}
